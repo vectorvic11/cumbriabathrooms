@@ -1,16 +1,32 @@
-# React + Vite
+# 🛁 Cumbria Bathrooms & Heating Supplies — Carlisle, UK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A luxury showroom and commercial trade merchant platform engineered for an independent bathroom design and heating supplier based in Carlisle, Cumbria.
 
-Currently, two official plugins are available:
+🔗 **Live Website:** [https://cumbriabathrooms.vercel.app](https://cumbriabathrooms.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎯 Business Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Dual Audience Architecture:** Seamlessly balances retail homeowners booking 3D virtual bathroom designs with trade plumbers accessing early-morning counter trade perks.
+- **Interactive Showroom Filters:** Real-time category filtering across freestanding baths, designer radiators, and boiler supplies.
+- **Local Cumbria SEO:** Structured `LocalBusiness` Schema.org JSON-LD targeting Carlisle, Lake District, and Cumbria postcodes (`CA2 5JL`).
+- **Core Web Vitals Optimized:** Sub-second asset delivery with modern responsive layout.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend:** React 19 + Vite
+- **Styling:** Tailwind CSS (Navy & Chrome design system)
+- **Icons:** Lucide React
+- **Hosting:** Vercel
+
+---
+
+## 👨‍💻 Developer
+
+**Victor Osita**  
+*Web Performance & Google Search Visibility Specialist*  
+- Portfolio: [https://my-portfolio-kappa-wheat-blwrwaz4w3.vercel.app](https://my-portfolio-kappa-wheat-blwrwaz4w3.vercel.app)
+- LinkedIn: [/in/victor-osita-egbe](https://linkedin.com/in/victor-osita-egbe)
